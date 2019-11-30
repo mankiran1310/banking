@@ -30,7 +30,7 @@ public class TC001_Login {
 
 		@AfterMethod
 		public void tearDown() {
-			driver.quit();
+			
 			
 		}
 }
